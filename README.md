@@ -4,7 +4,7 @@ Este repositorio muestra como podemos programar una ESP32 con el sensor ULTRASON
 ## Introducción
 
 ### Descripción
-La ```Esp32``` la utilizamos en un entorno de adquision de datos, lo cual en esta practica ocuparemos un sensor ultrasonico (```HC-SR04```) para adquirir la distancia del entorno, asi como tambien un display (```LCD16x2(I2C)```) donde podremos visualizar los medidas en cm y mi nombre con la carrera que cursé; cabe aclarar que esta practica se usara un simulador llamado [WOKWI](https://https://wokwi.com/).
+La ```ESP32``` la utilizamos en un entorno de adquision de datos, lo cual en esta practica ocuparemos un sensor ultrasonico (```HC-SR04```) para adquirir la distancia del entorno, asi como tambien un display (```LCD16x2(I2C)```) donde podremos visualizar los medidas en cm y mi nombre con la carrera que cursé; cabe aclarar que esta practica se usara un simulador llamado [WOKWI](https://https://wokwi.com/).
 
 ## Material Necesario
 Para realizar esta practica necesitas lo siguiente
