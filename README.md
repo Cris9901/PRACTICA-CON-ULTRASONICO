@@ -85,7 +85,7 @@ void loop()
 
 5. Hacer la conexion de **LCD16x2(I2C)** con la **ESP32** como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/Cris9901/PRACTICA-CON-ULTRASONICO/blob/main/IMAGEN%2010.jpg)
 
 ### Instrucciónes de operación
 1. Iniciar simulador.
