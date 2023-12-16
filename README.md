@@ -90,9 +90,13 @@ void loop()
 ### Instrucciónes de operación
 1. Iniciar simulador.
 2. Visualizar los datos en el monitor serial.
-3. Colocar la temperatura y humedad dando *doble click* al sensor **DHT11** 
+3. Colocar la temperatura y humedad dando *doble click* al sensor **HC-SR04** 
 
 ## Resultados
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 
-![](https://github.com/DiegoJm10/PracticaDHT/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2008_06_2023%2011_10_20%20p.%20m..png?raw=true)
+![](https://github.com/Cris9901/PRACTICA-CON-ULTRASONICO/blob/main/IMAGEN%2012.jpg)
+
+# Créditos
+
+Desarrollado por Ing. Montañez Mejia Cristian
