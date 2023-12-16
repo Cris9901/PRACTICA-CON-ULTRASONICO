@@ -77,7 +77,7 @@ void loop()
 
 3. Instalar la libreria de **LiquidCrystal I2C** como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/Cris9901/PRACTICA-CON-ULTRASONICO/blob/main/IMAGEN%204_.jpg)
 
 4. Hacer la conexion de **HC-SR04** con la **ESP32** como se muestra en la siguente imagen.
 
